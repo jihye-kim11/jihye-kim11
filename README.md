@@ -1,5 +1,5 @@
 ### Hi there 👋
-![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye-kim11&theme=dark&show_icons=true)
+![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye-kim11&theme=flag-india&show_icons=true)
 
 <!--
 **jihye-kim11/jihye-kim11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
