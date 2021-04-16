@@ -1,5 +1,5 @@
 ### Hi there 👋
-![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye-kim11&theme=flag-india&show_icons=true&hide=stars,prs,issues)
+![jihye's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihye-kim11&theme=flag-india&show_icons=true)
  
 
 
